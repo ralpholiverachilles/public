@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kontakt on Glossa Ordinaria</title>
-    <link>http://localhost:1313/tags/kontakt/</link>
-    <description>Recent content in Kontakt on Glossa Ordinaria</description>
+    <title>Übers on Glossa Ordinaria</title>
+    <link>http://localhost:1313/%C3%BCber/</link>
+    <description>Recent content in Übers on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>2025 Oliver Achilles</copyright>
     <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/kontakt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/%C3%BCber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kontakt</title>
-      <link>http://localhost:1313/about/kontakt/</link>
+      <link>http://localhost:1313/%C3%BCber/kontakt/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/kontakt/</guid>
+      <guid>http://localhost:1313/%C3%BCber/kontakt/</guid>
       <description>Wie Sie mich erreichen können</description>
     </item>
   </channel>

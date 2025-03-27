@@ -2,53 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/at/</loc>
+    <loc>https://glossa-ordinaria.blog/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/about/impressum/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/about/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/at/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bundesbuch/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/at/ex-2022/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hintergrund/</loc>
+    <loc>https://glossa-ordinaria.blog/posts/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <loc>https://glossa-ordinaria.blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/stimmen/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <loc>https://glossa-ordinaria.blog/nt/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/%C3%BCbersetzungen/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/mein_zweiter_beitrag/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/beitrag/</loc>
-    <lastmod>2025-03-05T14:18:15+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/mein-erster-beitrag/</loc>
-    <lastmod>2025-03-05T14:18:15+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/menno/</loc>
-    <lastmod>2025-03-05T14:18:15+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/org-mode/</loc>
-    <lastmod>2025-03-05T14:18:15+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
-    <lastmod>2025-03-05T14:18:15+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/nt/</loc>
+    <loc>https://glossa-ordinaria.blog/tags/</loc>
   </url>
 </urlset>

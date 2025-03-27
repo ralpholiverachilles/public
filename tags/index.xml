@@ -2,68 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Glossa Ordinaria</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://glossa-ordinaria.blog/tags/</link>
     <description>Recent content in Tags on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>2025 Oliver Achilles</copyright>
-    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bundesbuch</title>
-      <link>http://localhost:1313/tags/bundesbuch/</link>
-      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bundesbuch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hintergrund</title>
-      <link>http://localhost:1313/tags/hintergrund/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hintergrund/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stimmen</title>
-      <link>http://localhost:1313/tags/stimmen/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stimmen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Übersetzungen</title>
-      <link>http://localhost:1313/tags/%C3%BCbersetzungen/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%C3%BCbersetzungen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Beitrag</title>
-      <link>http://localhost:1313/tags/beitrag/</link>
-      <pubDate>Wed, 05 Mar 2025 14:18:15 +0100</pubDate>
-      <guid>http://localhost:1313/tags/beitrag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Menno</title>
-      <link>http://localhost:1313/tags/menno/</link>
-      <pubDate>Wed, 05 Mar 2025 14:18:15 +0100</pubDate>
-      <guid>http://localhost:1313/tags/menno/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Org-Mode</title>
-      <link>http://localhost:1313/tags/org-mode/</link>
-      <pubDate>Wed, 05 Mar 2025 14:18:15 +0100</pubDate>
-      <guid>http://localhost:1313/tags/org-mode/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/tags/test/</link>
-      <pubDate>Wed, 05 Mar 2025 14:18:15 +0100</pubDate>
-      <guid>http://localhost:1313/tags/test/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://glossa-ordinaria.blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

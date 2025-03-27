@@ -2,19 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Über diesen Blog on Glossa Ordinaria</title>
-    <link>https://glossa-ordinaria.blog/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content in Über diesen Blog on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
-    <copyright>2025 Oliver Achilles</copyright>
+    <copyright>Oliver Achilles</copyright>
     <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://glossa-ordinaria.blog/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impressum</title>
-      <link>https://glossa-ordinaria.blog/about/impressum/</link>
+      <link>http://localhost:1313/about/impressum/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://glossa-ordinaria.blog/about/impressum/</guid>
+      <guid>http://localhost:1313/about/impressum/</guid>
       <description>Betreiber dieser Seite: Oliver Achilles, Wien Alle Beiträge stehen unter folgender Lizenz:&#xA;Glossa Ordinaria Blog by Oliver Achilles is licensed under CC BY-NC-ND 4.0</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/about/kontakt/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/kontakt/</guid>
+      <description>Wie Sie mich erreichen können</description>
     </item>
   </channel>
 </rss>

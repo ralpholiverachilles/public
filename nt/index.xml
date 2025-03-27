@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neues Testament on Glossa Ordinaria</title>
-    <link>https://glossa-ordinaria.blog/nt/</link>
+    <link>http://localhost:1313/nt/</link>
     <description>Recent content in Neues Testament on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>Oliver Achilles</copyright>
-    <atom:link href="https://glossa-ordinaria.blog/nt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

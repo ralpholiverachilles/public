@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Glossa Ordinaria</title>
-    <link>https://glossa-ordinaria.blog/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>Oliver Achilles</copyright>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://glossa-ordinaria.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bundesbuch</title>
-      <link>https://glossa-ordinaria.blog/tags/bundesbuch/</link>
+      <link>http://localhost:1313/tags/bundesbuch/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://glossa-ordinaria.blog/tags/bundesbuch/</guid>
+      <guid>http://localhost:1313/tags/bundesbuch/</guid>
       <description></description>
     </item>
     <item>
       <title>Ex_20,22</title>
-      <link>https://glossa-ordinaria.blog/tags/ex_2022/</link>
+      <link>http://localhost:1313/tags/ex_2022/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://glossa-ordinaria.blog/tags/ex_2022/</guid>
+      <guid>http://localhost:1313/tags/ex_2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Hintergrund</title>
-      <link>https://glossa-ordinaria.blog/tags/hintergrund/</link>
+      <link>http://localhost:1313/tags/hintergrund/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://glossa-ordinaria.blog/tags/hintergrund/</guid>
+      <guid>http://localhost:1313/tags/hintergrund/</guid>
       <description></description>
     </item>
     <item>
       <title>Stimmen</title>
-      <link>https://glossa-ordinaria.blog/tags/stimmen/</link>
+      <link>http://localhost:1313/tags/stimmen/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://glossa-ordinaria.blog/tags/stimmen/</guid>
+      <guid>http://localhost:1313/tags/stimmen/</guid>
       <description></description>
     </item>
     <item>
       <title>Übersetzungen</title>
-      <link>https://glossa-ordinaria.blog/tags/%C3%BCbersetzungen/</link>
+      <link>http://localhost:1313/tags/%C3%BCbersetzungen/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://glossa-ordinaria.blog/tags/%C3%BCbersetzungen/</guid>
+      <guid>http://localhost:1313/tags/%C3%BCbersetzungen/</guid>
       <description></description>
     </item>
   </channel>

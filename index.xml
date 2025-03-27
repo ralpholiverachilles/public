@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beiträge zu einer aktuellen Glossa Ordinaria on Glossa Ordinaria</title>
-    <link>https://github.com/ralpholiverachilles/public/</link>
+    <link>https://glossa-ordinaria.blog/</link>
     <description>Recent content in Beiträge zu einer aktuellen Glossa Ordinaria on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© 2025 Oliver Achilles</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://github.com/ralpholiverachilles/public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://glossa-ordinaria.blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

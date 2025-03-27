@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beiträge zu einer aktuellen Glossa Ordinaria on Glossa Ordinaria</title>
-    <link>http://localhost:1313/</link>
+    <link>https://glossa-ordinaria.blog/</link>
     <description>Recent content in Beiträge zu einer aktuellen Glossa Ordinaria on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© 2025 Oliver Achilles</copyright>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://glossa-ordinaria.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ex 20,22</title>
-      <link>http://localhost:1313/at/ex-2022/</link>
+      <link>https://glossa-ordinaria.blog/at/ex-2022/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/at/ex-2022/</guid>
+      <guid>https://glossa-ordinaria.blog/at/ex-2022/</guid>
       <description>Beginn des Kommentars zum Bundesbuch</description>
     </item>
     <item>
       <title>Mein zweiter Beitrag</title>
-      <link>http://localhost:1313/posts/mein_zweiter_beitrag/</link>
+      <link>https://glossa-ordinaria.blog/posts/mein_zweiter_beitrag/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mein_zweiter_beitrag/</guid>
+      <guid>https://glossa-ordinaria.blog/posts/mein_zweiter_beitrag/</guid>
       <description>Ich versuche, den Header eigens zu gestalten</description>
     </item>
     <item>
       <title>Mein Erster Beitrag</title>
-      <link>http://localhost:1313/posts/mein-erster-beitrag/</link>
+      <link>https://glossa-ordinaria.blog/posts/mein-erster-beitrag/</link>
       <pubDate>Wed, 05 Mar 2025 14:18:15 +0100</pubDate>
-      <guid>http://localhost:1313/posts/mein-erster-beitrag/</guid>
+      <guid>https://glossa-ordinaria.blog/posts/mein-erster-beitrag/</guid>
       <description>Ein erster Einblick, was mich an Hugo und Org-mode interessiert</description>
     </item>
   </channel>

@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beitrag on Glossa Ordinaria</title>
-    <link>http://localhost:1313/tags/beitrag/</link>
-    <description>Recent content in Beitrag on Glossa Ordinaria</description>
+    <title>Hintergrund on Glossa Ordinaria</title>
+    <link>http://localhost:1313/tags/hintergrund/</link>
+    <description>Recent content in Hintergrund on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© 2025 Oliver Achilles</copyright>
     <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/beitrag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hintergrund/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Worum es auf diesem Blog gehen soll</title>
       <link>http://localhost:1313/posts/mein_zweiter_beitrag/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/mein_zweiter_beitrag/</guid>
       <description>Eine kurze Inhaltsangabe</description>
-    </item>
-    <item>
-      <title>Mein Erster Beitrag</title>
-      <link>http://localhost:1313/posts/mein-erster-beitrag/</link>
-      <pubDate>Wed, 05 Mar 2025 14:18:15 +0100</pubDate>
-      <guid>http://localhost:1313/posts/mein-erster-beitrag/</guid>
-      <description>Ein erster Einblick, was mich an Hugo und Org-mode interessiert</description>
     </item>
   </channel>
 </rss>

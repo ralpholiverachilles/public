@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://glossa-ordinaria.blog/nt/markus_katene_01/</loc>
+    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/</loc>
+    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/tags/markus/</loc>
+    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/tags/mk_11/</loc>
+    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/nt/</loc>
+    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/tags/</loc>
+    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://glossa-ordinaria.blog/at/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,12 +30,6 @@
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://glossa-ordinaria.blog/tags/ex_2022/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://glossa-ordinaria.blog/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://glossa-ordinaria.blog/tags/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://glossa-ordinaria.blog/tags/hintergrund/</loc>
@@ -36,7 +48,5 @@
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://glossa-ordinaria.blog/categories/</loc>
-  </url><url>
-    <loc>https://glossa-ordinaria.blog/nt/</loc>
   </url>
 </urlset>

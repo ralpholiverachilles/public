@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://glossa-ordinaria.blog/nt/markus_katene_01/</loc>
-    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
+    <loc>https://glossa-ordinaria.blog/at/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/tags/bundesbuch/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/at/ex-2023/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/tags/ex_2023/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://glossa-ordinaria.blog/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/tags/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://glossa-ordinaria.blog/nt/markus_katene_01/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://glossa-ordinaria.blog/tags/markus/</loc>
@@ -16,15 +31,6 @@
   </url><url>
     <loc>https://glossa-ordinaria.blog/nt/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://glossa-ordinaria.blog/tags/</loc>
-    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://glossa-ordinaria.blog/at/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://glossa-ordinaria.blog/tags/bundesbuch/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://glossa-ordinaria.blog/at/ex-2022/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>

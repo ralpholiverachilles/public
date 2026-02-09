@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mk_1:2-3 on Glossa Ordinaria</title>
-    <link>http://localhost:1313/tags/mk_12-3/</link>
+    <link>https://glossa-ordinaria.blog/tags/mk_12-3/</link>
     <description>Recent content in Mk_1:2-3 on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>Oliver Achilles</copyright>
     <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mk_12-3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://glossa-ordinaria.blog/tags/mk_12-3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markus 1,2-3</title>
-      <link>http://localhost:1313/nt/markus_katene_02/</link>
+      <link>https://glossa-ordinaria.blog/nt/markus_katene_02/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nt/markus_katene_02/</guid>
+      <guid>https://glossa-ordinaria.blog/nt/markus_katene_02/</guid>
       <description>Fortsetzung Auslegung des Markus-Evangeliums</description>
     </item>
   </channel>

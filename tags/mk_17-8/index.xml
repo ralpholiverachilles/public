@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mk_1:7-8 on Glossa Ordinaria</title>
-    <link>http://localhost:1313/tags/mk_17-8/</link>
+    <link>https://glossa-ordinaria.blog/tags/mk_17-8/</link>
     <description>Recent content in Mk_1:7-8 on Glossa Ordinaria</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>Oliver Achilles</copyright>
     <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mk_17-8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://glossa-ordinaria.blog/tags/mk_17-8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markus 1,7-8</title>
-      <link>http://localhost:1313/nt/markus_katene_06/</link>
+      <link>https://glossa-ordinaria.blog/nt/markus_katene_06/</link>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nt/markus_katene_06/</guid>
+      <guid>https://glossa-ordinaria.blog/nt/markus_katene_06/</guid>
       <description>Kommentare zu Mk 1,7-8</description>
     </item>
   </channel>
